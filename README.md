@@ -1,3 +1,3 @@
 # Baalancer
 
-- Balancer (a play on "Baal," the demon, and "Balancer")
+- Baalancer (a play on "Baal," the demon, and "Balancer")
